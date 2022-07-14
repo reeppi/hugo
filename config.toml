@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Huugo sivut'
+theme = "hello-friend"
+
+[params]
+  contentTypeName = "posts"
+  defaultTheme = "dark"
+  showMenuItems = 2
+  showReadingTime = false
